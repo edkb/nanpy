@@ -1,6 +1,7 @@
 from nanpy.arduinoboard import ArduinoObject
 from nanpy.arduinoboard import (arduinoobjectmethod, returns)
 
+
 class Servo(ArduinoObject):
     cfg_h_name = 'USE_Servo'
 
@@ -28,6 +29,10 @@ class Servo(ArduinoObject):
 
     @arduinoobjectmethod
     def attached(self):
+        pass
+
+    @arduinoobjectmethod
+    def attach(self, value):
         pass
 
     @arduinoobjectmethod
