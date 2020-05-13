@@ -1,4 +1,5 @@
-# TLDR - Since the original nanpy repo is dead, I made this clone to correct a few bug on the servo class, feel free to download and use you wish
+TLDR - Since the original nanpy repo is dead, I made this clone to correct a few bugs on the servo class, feel free to download and use you wish
+=====
 
 Nanpy
 =====
