@@ -1,3 +1,5 @@
+# TLDR - Since the original nanpy repo is dead, I made this clone to correct a few bug on the servo class, feel free to download and use you wish
+
 Nanpy
 =====
 
@@ -70,7 +72,7 @@ PyPi <https://pypi.python.org/pypi/nanpy>`__.
 
 ::
 
-    git clone https://github.com/nanpy/nanpy-firmware.git
+    git clone https://github.com/edkb/nanpy-firmware.git
     cd nanpy-firmware
     ./configure.sh
 
@@ -93,7 +95,7 @@ To uninstall::
 
 To install the latest version from Github::
 
-    pip install https://github.com/nanpy/nanpy/archive/master.zip
+    pip install https://github.com/edkb/nanpy/archive/master.zip
 
 
 How to contribute
